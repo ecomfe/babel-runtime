@@ -1,6 +1,6 @@
 {
     "name": "babel-runtime",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "面向浏览器的babel-runtime实现",
     "main": "main",
     "contributors": [
@@ -10,9 +10,9 @@
         }
     ],
     "license": "MIT",
-    "repository": "http://gitlab.baidu.com/babel/babel-runtime",
-    "bugs": "http://gitlab.baidu.com/babel/babel-runtime/issues",
-    "devDependencies": {
-        "babel-preset-browser": "^1.0.0"
-    }
+    "repository": {
+        "type": "git",
+        "url": "http://gitlab.baidu.com/babel/babel-runtime"
+    },
+    "bugs": "http://gitlab.baidu.com/babel/babel-runtime/issues"
 }
