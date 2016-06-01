@@ -1,6 +1,6 @@
 /**
  * @file taggedTemplateLiteralLoose 字符串模板 — 标签函数处理
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

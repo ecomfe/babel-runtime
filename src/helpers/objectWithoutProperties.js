@@ -1,6 +1,6 @@
 /**
  * @file objectWithoutProperties 取出对象中除掉某些属性的部分
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 

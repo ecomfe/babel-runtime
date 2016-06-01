@@ -1,6 +1,6 @@
 /**
  * @file defineEnumerableProperties
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

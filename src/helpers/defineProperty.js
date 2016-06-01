@@ -1,6 +1,6 @@
 /**
  * @file defineProperty 定义一个属性
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

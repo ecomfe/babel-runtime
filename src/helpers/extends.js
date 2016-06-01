@@ -1,6 +1,6 @@
 /**
  * @file extends 对象扩展
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

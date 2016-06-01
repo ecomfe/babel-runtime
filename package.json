@@ -1,18 +1,18 @@
 {
     "name": "babel-runtime",
     "version": "1.0.1",
-    "description": "面向浏览器的babel-runtime实现",
+    "description": "babel-runtime for amd modules",
     "main": "main",
     "contributors": [
         {
-            "name": "zongyu",
-            "email": "zongyu@baidu.com"
+            "name": "liuxuanzy",
+            "email": "liuxuanzy@qq.com"
         }
     ],
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "http://gitlab.baidu.com/babel/babel-runtime"
+        "url": "http://github.com/ecomfe/babel-runtime"
     },
-    "bugs": "http://gitlab.baidu.com/babel/babel-runtime/issues"
+    "bugs": "http://github.com/ecomfe/babel-runtime/issues"
 }

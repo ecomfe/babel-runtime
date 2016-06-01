@@ -1,6 +1,6 @@
 /**
  * @file slicedToArray 将对象转换成数组
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

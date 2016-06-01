@@ -1,6 +1,6 @@
 /**
  * @file classCallCheck 用于检查类不能被非实例化调用
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

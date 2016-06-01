@@ -1,6 +1,6 @@
 /**
  * @file objectDestructuringEmpty 空对象解构
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

@@ -1,6 +1,6 @@
 /**
  * @file toConsumableArray 将类数组转换成数组
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {

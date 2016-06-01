@@ -1,6 +1,6 @@
 /**
  * @file createClass 创建类对象
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 define(function () {
